@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Week2.dir/hotels.cpp.o  -o Week2  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

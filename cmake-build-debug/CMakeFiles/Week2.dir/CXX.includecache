@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vorkov/Workspace/C++/Coursera/Week2/hotels.cpp
+iostream
+-
+vector
+-
+deque
+-
+set
+-
+map
+-
+gtest/gtest.h
+-
+
